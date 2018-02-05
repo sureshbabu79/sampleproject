@@ -1,4 +1,4 @@
-package org.suresh.sample.dao;
+package org.suresh.server.dao;
 
 public class EmployeeDao {
 

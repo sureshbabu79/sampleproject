@@ -1,4 +1,4 @@
-package org.suresh.sample.listeners;
+package org.suresh.server.listeners;
 
 //This is the Employer Listener file. Basically the project will be configured
 //in the xml file to listen to all listeners. The listener is routed to the 

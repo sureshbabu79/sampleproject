@@ -1,4 +1,4 @@
-package org.suresh.sample.utils;
+package org.suresh.server.utils;
 
 public class SampleUtils {
 
